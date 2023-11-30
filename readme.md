@@ -29,3 +29,6 @@
 * Though there is a high investment initially, the code will be scalable, maintainable, and can easily avoid performance bottlenecks.
 * By following the steps provided in implementation we can overcome most of the challenges that we may face during the architectural shift.
 * We will need further collaboration with the team for successful implementation and for the consideration of corner cases if any.!
+  ## References
+  1. [gfg link](https://www.geeksforgeeks.org/service-oriented-architecture/)
+  2. [youtube link](https://youtu.be/PA9RjHI463g?si=x4VlvwiiHyRtl7oN)
